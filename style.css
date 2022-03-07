@@ -1,0 +1,20 @@
+.navbar-nav{
+    margin-left: 600px;
+    font-weight: 500;
+    font-size: 20px;
+
+   
+}
+.nav-item{
+    margin-right: 30px;
+}
+.nav-link{
+    color: white;
+}
+.twitter{
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 3px;
+}
